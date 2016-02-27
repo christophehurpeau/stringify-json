@@ -1,0 +1,32 @@
+{
+  "name": "stringify-json",
+  "version": "1.0.0",
+  "description": "JSON.stringify but handles Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --es_staging --recursive --bail -u tdd test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophehurpeau/stringify-json.git"
+  },
+  "keywords": [
+    "JSON.parse",
+    "map"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/stringify-json/issues"
+  },
+  "homepage": "https://github.com/christophehurpeau/stringify-json#readme",
+  "dependencies": {
+    "map2object": "^1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.8",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.2.5",
+    "xunit-file": "0.0.9"
+  }
+}
