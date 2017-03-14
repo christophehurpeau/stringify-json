@@ -1,5 +1,7 @@
 # stringify-json [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/stringify-json.svg)](https://greenkeeper.io/)
+
 Transform an Object to a Map
 
 [![Build Status][build-status-image]][build-status-url] [![Coverage][coverage-image]][coverage-url]
