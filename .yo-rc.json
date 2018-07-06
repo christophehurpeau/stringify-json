@@ -1,0 +1,15 @@
+{
+  "pob": {
+    "pob-config": {
+      "entries": [
+        "index"
+      ],
+      "documentation": false,
+      "testing": {
+        "circleci": true,
+        "codecov": true
+      },
+      "envs": []
+    }
+  }
+}
